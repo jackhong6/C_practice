@@ -1,0 +1,7 @@
+This is a text file used as input to test my programs.
+
+There are:
+	- 7 newlines
+	- 3 tabs
+	- 38 spaces
+This sentence has some spacing issues.
